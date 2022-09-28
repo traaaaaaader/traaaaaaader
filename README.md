@@ -1,4 +1,3 @@
-___
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 ___
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LIIuko&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
