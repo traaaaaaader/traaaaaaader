@@ -8,3 +8,4 @@ ___
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LIIuko&theme=2077)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LIIuko&theme=2077)
 ___
+![snake gif](https://github.com/LIIuko/LIIuko/blob/output/github-contribution-grid-snake.svg)
