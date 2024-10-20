@@ -8,7 +8,7 @@ ___
 ___
 
 <p align=center>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LIIuko&layout=compact&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=traaaaaaader&layout=compact&theme=dark"/>
 </p>
   
 ___
@@ -27,13 +27,13 @@ ___
 ___
 
 <p align=center>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LIIuko&theme=2077"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=traaaaaaader&theme=2077"/>
 </p>
 <p align=center>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LIIuko&theme=2077"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LIIuko&theme=2077"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=traaaaaaader&theme=2077"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=traaaaaaader&theme=2077"/>
 </p>
 <p align=center>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LIIuko&theme=2077"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LIIuko&theme=2077"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=traaaaaaader&theme=2077"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=traaaaaaader&theme=2077"/>
 </p>
